@@ -40,7 +40,7 @@
    <body class="body_style_wide responsive_menu scheme_original top_panel_show top_panel_over sidebar_hide">
       <div class="body_wrap">
          <div class="page_wrap">
-            <header id="" class="top_panel_wrap top_panel_style_1 scheme_original">
+            <header id="" class="top_panel_wrap top_panel_style_1 scheme_original" style="position: unset;">
                <div id="" class="header-bg">
                   <div class="top_panel_wrap_inner top_panel_inner_style_1 top_panel_position_over">
                      <div class="content_wrap clearfix">

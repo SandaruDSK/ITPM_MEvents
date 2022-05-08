@@ -172,14 +172,14 @@
 									<a href="#" class="sidebar-nav-menu"><i class="fa fa-angle-left sidebar-nav-indicator sidebar-nav-mini-hide"></i><i class="gi gi-bank sidebar-nav-icon"></i><span class="sidebar-nav-mini-hide">Events</span></a>
 										<ul>
 											<li>
-												<a href="">Add New Event</a>
+												<a href="add_event.jsp">Add New Event</a>
 											</li>
 											<li>
-												<a href="">Available Events List</a> 
+												<a href="ViewAllEvents">Available Events List</a> 
 											</li>
 											
 											<li>
-												<a href="">Hidden Events List</a> 
+												<a href="DeletedEvents">Hidden Events List</a> 
 											</li>
 										</ul>
 								</li> 
@@ -198,10 +198,10 @@
                                     <a href="#" class="sidebar-nav-menu"><i class="fa fa-angle-left sidebar-nav-indicator sidebar-nav-mini-hide"></i><i class="gi gi-headset sidebar-nav-icon"></i><span class="sidebar-nav-mini-hide">Inquries</span></a>
 									<ul>	
 										<li>
-											<a href="">Inquiry List</a>
+											<a href="ViewAllContactUsDetails">Inquiry List</a>
 										</li>
 										<li>
-											<a href="">Hidden Inquries</a>
+											<a href="searchindex.jsp">Search Inquiry</a>
 										</li>
                                         <li>
 											<a href="">Progress of Inquries</a>
