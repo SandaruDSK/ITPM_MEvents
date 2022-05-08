@@ -172,14 +172,14 @@
 									<a href="#" class="sidebar-nav-menu"><i class="fa fa-angle-left sidebar-nav-indicator sidebar-nav-mini-hide"></i><i class="gi gi-bank sidebar-nav-icon"></i><span class="sidebar-nav-mini-hide">Events</span></a>
 										<ul>
 											<li>
-												<a href="">Add New Event</a>
+												<a href="add_event.jsp">Add New Event</a>
 											</li>
 											<li>
-												<a href="">Available Events List</a> 
+												<a href="ViewAllEvents">Available Events List</a> 
 											</li>
 											
 											<li>
-												<a href="">Hidden Events List</a> 
+												<a href="View_Del_Event.jsp">Hidden Events List</a> 
 											</li>
 										</ul>
 								</li> 
@@ -210,7 +210,7 @@
 									</ul>
                                 </li>
 								<li>
-                                    <a href="#" class="sidebar-nav-menu"><i class="fa fa-angle-left sidebar-nav-indicator sidebar-nav-mini-hide"></i><i class="gi gi-money sidebar-nav-icon"></i><span class="sidebar-nav-mini-hide">Customers</span></a>
+                                    <a href="#" class="sidebar-nav-menu"><i class="fa fa-angle-left sidebar-nav-indicator sidebar-nav-mini-hide"></i><i class="gi gi-road sidebar-nav-icon"></i><span class="sidebar-nav-mini-hide">Customers</span></a>
 									<ul>	
 										<li>
 											<a href="">Customer Details</a>
