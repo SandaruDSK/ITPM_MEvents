@@ -198,10 +198,10 @@
                                     <a href="#" class="sidebar-nav-menu"><i class="fa fa-angle-left sidebar-nav-indicator sidebar-nav-mini-hide"></i><i class="gi gi-headset sidebar-nav-icon"></i><span class="sidebar-nav-mini-hide">Inquries</span></a>
 									<ul>	
 										<li>
-											<a href="">Inquiry List</a>
+											<a href="ViewAllContactUsDetails">Inquiry List</a>
 										</li>
 										<li>
-											<a href="">Hidden Inquries</a>
+											<a href="searchindex.jsp">Search Inquiry</a>
 										</li>
                                         <li>
 											<a href="">Progress of Inquries</a>
