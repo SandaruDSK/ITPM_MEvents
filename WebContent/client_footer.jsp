@@ -41,7 +41,7 @@
                         <li class="menu-item"><a href="#">Disclaimer</a></li>
                         <li class="menu-item"><a href="#">Privacy</a></li>
                         <li class="menu-item"><a href="#">Advertisement</a></li>
-                        <li class="menu-item"><a href="/full/contact">Contact us</a></li>
+                        <li class="menu-item"><a href="#">Contact us</a></li>
                      </ul>
                      <div class="copyright_text">MEvents © 2022 All Rights Reserved</div>
                   </div>
@@ -69,8 +69,3 @@
       <script type='text/javascript' src='js/vendor/parallax.js'></script>
       <script type='text/javascript' src='js/vendor/skrollr.min.js'></script>
       <script type='text/javascript' src='js/vendor/swiper/swiper.min.js'></script>
-      
-   </body>
-</html>
-</body>
-</html>

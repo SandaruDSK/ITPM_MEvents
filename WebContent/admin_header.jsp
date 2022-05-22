@@ -179,7 +179,7 @@
 											</li>
 											
 											<li>
-												<a href="DeletedEvents">Hidden Events List</a> 
+												<a href="View_Del_Event.jsp">Hidden Events List</a> 
 											</li>
 										</ul>
 								</li> 
@@ -210,7 +210,7 @@
 									</ul>
                                 </li>
 								<li>
-                                    <a href="#" class="sidebar-nav-menu"><i class="fa fa-angle-left sidebar-nav-indicator sidebar-nav-mini-hide"></i><i class="gi gi-money sidebar-nav-icon"></i><span class="sidebar-nav-mini-hide">Customers</span></a>
+                                    <a href="#" class="sidebar-nav-menu"><i class="fa fa-angle-left sidebar-nav-indicator sidebar-nav-mini-hide"></i><i class="gi gi-road sidebar-nav-icon"></i><span class="sidebar-nav-mini-hide">Customers</span></a>
 									<ul>	
 										<li>
 											<a href="">Customer Details</a>

@@ -62,7 +62,7 @@
                            <a href="#" class="menu_main_responsive_button icon-down"></a>
                            <nav class="menu_main_nav_area">
                               <ul id="menu_main" class="menu_main_nav">
-                                  <li class="menu-item"><a href="">Home</a></li>
+                                  <li class="menu-item"><a href="home">Home</a></li>
 								  <li class="menu-item"><a href="">About Us</a></li>
 								  <li class="menu-item"><a href="">Events</a></li>
 								  <li class="menu-item"><a href="">Get a Quote</a></li>
